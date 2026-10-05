@@ -1,8 +1,8 @@
 -- // Custom Settings
 getgenv().TreasureAutoFarm = {
     Enabled = true, -- // Toggle the auto farm on and off
-    Teleport = 1, -- // How fast between each teleport between the stages and stuff
-    TimeBetweenRuns = 3 -- // How long to wait until it goes to the next run
+    Teleport = 2, -- // How fast between each teleport between the stages and stuff
+    TimeBetweenRuns = 5 -- // How long to wait until it goes to the next run
 }
 
 -- // Services
